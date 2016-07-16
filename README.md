@@ -1,2 +1,2 @@
 # Arduino
-Several stuff to work with Arduino
+Several stuff to work with Arduino.
